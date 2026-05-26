@@ -25,4 +25,4 @@
 name     : Shwetansh Singh
 role     : Analyst
 location : India
-focus    : Advanced Excel | SQL | Python | Power BI | Machine Learning
+focus    : Advanced Excel | SQL | Python | Power BI | Machine Learning | Deep Learning
